@@ -1,0 +1,17 @@
+# Obsidian local vault configuration
+.obsidian/
+
+# Obsidian local trash
+.trash/
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db
+*~
+
+# Keep template folders empty by default
+_Attachments/*
+!_Attachments/.gitkeep
+
+Daily/*
+!Daily/.gitkeep
