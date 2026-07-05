@@ -65,11 +65,11 @@ group by root
 
 ### Research projects
 
-- [[Research/Project Name/Project Name|Project Name]]
+-
 
 ### Current courses
 
-- [[Teaching/Course Name/Course Name|Course Name]]
+-
 
 ## Notes
 
